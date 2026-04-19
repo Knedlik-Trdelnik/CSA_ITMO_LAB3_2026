@@ -1,6 +1,10 @@
 # CSA_ITMO_LAB3_2026
 Мяу
 
+Чайковский Никита Михайлович 467979 
+
+m68k
+
 Мой вариант: 
 [тык](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=lab-3_cisc_i_love_INTEL.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jxWpxTcfOKN9FJ1pDBx7eLJFyW7V73XW%26export%3Ddownload)
 
